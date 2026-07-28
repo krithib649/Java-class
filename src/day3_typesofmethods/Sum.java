@@ -10,8 +10,8 @@ class Sum {
 	public static void main(String [] args) {
 		
 		Sum s1 = new Sum();
-		s1.add(10,20);
-		System.out.println(s1.add(10,20));
+		int x = s1.add(10,20);
+		System.out.println(x);
 	}
 	
 	

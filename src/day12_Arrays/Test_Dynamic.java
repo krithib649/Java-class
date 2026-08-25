@@ -21,8 +21,6 @@ public class Test_Dynamic {
 		System.out.println(arr[3]);
 		System.out.println(arr[4]);
 		
-		
-		
 		}
 
 }
